@@ -11,6 +11,7 @@ Simple web application for managing to-do tasks.
 # Languages
 
 -   PHP 7.2.19
+-   Blade
 
 # Required
 
