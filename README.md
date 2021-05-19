@@ -29,7 +29,7 @@ cd To-do-list
 composer install
 ```
 
-Create database named `to_do_database` in Laragon.
+Create MySQL database named `to_do_database` in Laragon.
 
 From Laragon terminal run:
 
